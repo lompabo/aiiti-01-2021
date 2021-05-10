@@ -1,4 +1,9 @@
-# AI in the Industry Tutorials #
+---
+title: AI in the Industry Tutorials (Density Estimation for Anomaly Detection)
+author: michele.lombardi2@unibo.it
+---
+
+# AI in the Industry Tutorials: Density Estimation for Anomaly Detection #
 
 This is one of a series of tutorials that are part of the "AI in the Industry" course at [University of Bologna](https://www.unibo.it/it). Each tutorial tackles a simplified industrial problem and aims at showing how similar problem can be tackled using AI techniques, from Machine Learning to Combinatorial Optimization (and later on their combination).
 
