@@ -22,7 +22,7 @@ Alternatively, it is possible to _inspect the notebooks in a static form_ (by ju
 instructions](https://docs.docker.com/compose/install/)
 * Clone the repository with the tutorial, in this case via the command:
 ```sh
-git clone https://github.com/lompabo/tutorial-template-python.git
+git clone https://github.com/lompabo/aiiti-01-2021.git
 ```
 * Start the container via Docker Compose, from the main directory of the
 tutorial:
